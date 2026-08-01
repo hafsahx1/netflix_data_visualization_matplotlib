@@ -62,6 +62,23 @@ The dataset contains:
 * `country` — Country of production
 * `duration` — Movie duration or number of seasons
 
+  ## 📸 Results
+
+### Movies vs TV Shows
+![Movies vs TV Shows](output/movies_vs_tv.png)
+
+### Ratings Distribution
+![Ratings Distribution](output/ratings.png)
+
+### Releases by Year
+![Releases by Year](output/releases_by_year.png)
+
+### Movie Duration Distribution
+![Movie Duration](output/duration_histogram.png)
+
+### Release Year vs Movie Duration
+![Release Year vs Duration](output/year_vs_duration.png)
+
 ## 🔍 Key Findings
 
 * Movies and TV shows have different distributions in the dataset.
